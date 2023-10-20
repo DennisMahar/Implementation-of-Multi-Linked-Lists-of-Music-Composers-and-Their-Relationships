@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1672933578 source:e:\kuliah\semester 3\struktur data\tubes\kelompok 6\tubes std\tubes.cpp
+	"tubes.h"
+	<iostream>
+
+1672930920 source:e:\kuliah\semester 3\struktur data\tubes\kelompok 6\tubes std\main.cpp
+	"tubes.h"
+	<iostream>
+
+1672933577 e:\kuliah\semester 3\struktur data\tubes\kelompok 6\tubes std\tubes.h
+	<iostream>
+
+1673184528 source:c:\users\asus\downloads\tubes std\main.cpp
+	"tubes.h"
+	<iostream>
+
+1673183041 c:\users\asus\downloads\tubes std\tubes.h
+	<iostream>
+
+1673184440 source:c:\users\asus\downloads\tubes std\tubes.cpp
+	"tubes.h"
+	<iostream>
+
+1673193976 source:e:\kuliah\semester 3\struktur data\fixx\tubes std\main.cpp
+	"tubes.h"
+	<iostream>
+
+1673194443 e:\kuliah\semester 3\struktur data\fixx\tubes std\tubes.h
+	<iostream>
+
+1673194404 source:e:\kuliah\semester 3\struktur data\fixx\tubes std\tubes.cpp
+	"tubes.h"
+	<iostream>
+
+1673194475 source:e:\kuliah\semester 3\struktur data\kelompok 6\tubes std\main.cpp
+	"tubes.h"
+	<iostream>
+
+1673194443 e:\kuliah\semester 3\struktur data\kelompok 6\tubes std\tubes.h
+	<iostream>
+
+1673532303 source:e:\kuliah\semester 3\struktur data\kelompok 6\tubes std\tubes.cpp
+	"tubes.h"
+	<iostream>
+
+1673194475 source:e:\kuliah\semester 3\struktur data\presentasi tubes\kelompok 6\tubes std\main.cpp
+	"tubes.h"
+	<iostream>
+
+1673194443 e:\kuliah\semester 3\struktur data\presentasi tubes\kelompok 6\tubes std\tubes.h
+	<iostream>
+
+1673532303 source:e:\kuliah\semester 3\struktur data\presentasi tubes\kelompok 6\tubes std\tubes.cpp
+	"tubes.h"
+	<iostream>
+
